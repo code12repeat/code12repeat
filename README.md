@@ -54,3 +54,8 @@
   <hr>
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=code12repeatreadme)
+  
+  ## 🧑‍💻 Leetcode Stats
+<p align="center">
+  <img  src="https://leetcard.jacoblin.cool/code12repeat?theme=dark&font=ABeeZee&ext=heatmap"/>
+</p>
