@@ -14,12 +14,9 @@
 - Also love to participate on codechef, codeforces, leetcode contests for fun and enhancing my problem solving ability.
 
 - 📫 How to reach me:
-- **mchauhanvg@gmail.com**
 - **code12repeat@gmail.com**
 - <a href = "https://www.linkedin.com/in/maneel-chauhan-9993a1102/"> Linkedin Profile </a>
 - <a href = "https://leetcode.com/code12repeat/"> LeetCode Profile </a>
-- <a href = "https://www.codechef.com/users/code12repeat"> CodeChef Profile </a>
-- <a href = "https://codeforces.com/profile/maneel_chauhan"> CodeForces Profile </a>
 - <a href = "https://auth.geeksforgeeks.org/user/maneel_chauhan/"> GeeksForGeeks Profile </a>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
